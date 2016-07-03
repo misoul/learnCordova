@@ -1,0 +1,20 @@
+*** Notes by Misoul ***
+This is a project to learn Cordova/PhoneGap.
+
+Source: https://ccoenraets.github.io/cordova-tutorial/create-cordova-project.html
+
+*** Logs ***
+
+[11:08]vto@vinhs-mbp learnCordova$ cordova plugin add org.apache.cordova.device
+Error: Registry returned 404 for GET on https://registry.npmjs.org/org.apache.cordova.device
+
+[11:08]vto@vinhs-mbp learnCordova$ cordova plugin add org.apache.cordova.console
+Error: Registry returned 404 for GET on https://registry.npmjs.org/org.apache.cordova.console
+
+[11:09]vto@vinhs-mbp learnCordova$ cordova plugin add cordova-plugin-device
+Fetching plugin "cordova-plugin-device" via npm
+
+[11:32]vto@vinhs-mbp learnCordova$ cordova plugin add cordova-plugin-console
+Fetching plugin "cordova-plugin-console" via npm
+
+"WARNING: org.apache.cordova.device has been renamed to cordova-plugin-device...."

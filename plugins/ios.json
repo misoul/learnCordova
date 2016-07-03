@@ -1,0 +1,27 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.misoul.learnCordova"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.misoul.learnCordova"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.misoul.learnCordova"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.misoul.learnCordova"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.misoul.learnCordova"
+        }
+    },
+    "dependent_plugins": {}
+}
